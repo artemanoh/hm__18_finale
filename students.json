@@ -39,17 +39,26 @@
       "isEnrolled": false
     },
     {
-      "id": "4",
-      "name": "Anastasia Ivanova",
-      "age": 17,
+      "id": "5e05",
+      "name": "Артем",
+      "age": 1,
       "course": "Data Science",
       "skills": [
-        "Python",
-        "Pandas",
-        "Machine Learning"
+        "frvrev"
       ],
-      "email": "anastasia.ivanova@example.com",
-      "isEnrolled": true
+      "email": "bejviklik2@gmail.com",
+      "isEnrolled": false
+    },
+    {
+      "id": "ac7e",
+      "name": "Артем Левурдяк",
+      "age": 11,
+      "course": "Data Science",
+      "skills": [
+        "re"
+      ],
+      "email": "bejviklik2@gmail.com",
+      "isEnrolled": false
     }
   ]
 }
